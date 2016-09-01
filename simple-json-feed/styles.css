@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  font-family: 'Open Sans', sans-serif;
+  padding: 20px;
+}
+
+h1{  
+  margin: 20px 0;
+  color:#C00;
+}
+
+h2{  
+  margin: 20px 0;
+  font-size: 18px;
+}
+
+.penLink{
+	color:#C00;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.feed{
+  margin: 20px 0;
+  border-top: 1px #CCCCCC;
+}
+.item {
+  border-top: 1px solid #CCC);
+  border-bottom: 1px solid #CCC;
+  padding: 14px 0;
+}
+
+.item h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  margin: 2px 0;
+}
+
+.loader{
+  padding-top: 25px;
+}
+
+.loader img{
+  display: none;
+  width: 50px;
+  height: auto;
+}
+
